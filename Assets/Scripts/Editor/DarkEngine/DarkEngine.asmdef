@@ -1,0 +1,20 @@
+{
+    "name": "DarkEngine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c500d1956df6f1f439c08a0ab03825de",
+        "GUID:e2f4aec3adbf6c14abb2b1dfad064df0",
+        "GUID:1fbf338ef6b952a448262a7ff7df5fe4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

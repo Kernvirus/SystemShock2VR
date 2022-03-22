@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff975e0f3dc8434f93788129c129657, type: 3}
+  m_Name: ss2importersettings
+  m_EditorClassIdentifier: 
+  selectedLevels:
+  - earth.mis
+  overwriteFlags: 6
+  dataRoots:
+  - C:\Users\Public\Documents\GameDev\SystemShock2VR-Index\SS2DataRoot
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\Vurt's SS2 Flora Overhaul 1.0k
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\AccFam_20
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\SS2_Rebirth_v05b
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\SS2_Vaxquis_VintageSongRemake
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\SHTUP-ND_beta1
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\obj_fixes_v12
+  - D:\SteamLibrary\steamapps\common\SS2\DMM\SCP_beta4
+  - D:\SteamLibrary\steamapps\common\SS2\patch_ext
+  - D:\SteamLibrary\steamapps\common\SS2\Data\res
+  ss2GamePath: D:\SteamLibrary\steamapps\common\SS2

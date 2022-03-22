@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.systemshock2vrindex2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Public\\Documents\\GameDev\\SystemShock2VR-Index\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SystemShock2VR-Index2 [Testing]"
+        }
+      }
+    }
+  ]
+}
